@@ -100,3 +100,120 @@
 17:15:08.715 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
 17:15:13.342 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
 17:15:15.092 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+09:32:21.983 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+09:32:23.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+09:32:23.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+09:32:24.007 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+09:32:24.192 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+09:32:24.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+09:32:24.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+09:32:24.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+09:32:24.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+09:32:28.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+09:32:30.131 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+09:32:33.801 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+09:32:35.762 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+09:41:54.010 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+09:41:55.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+09:41:55.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+09:41:55.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+09:41:55.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+09:41:55.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+09:41:55.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+09:41:55.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+09:41:55.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+09:41:58.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+09:42:00.669 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+09:42:03.945 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+09:42:05.645 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+09:43:44.358 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+09:43:45.491 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+09:43:45.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+09:43:45.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+09:43:45.803 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+09:43:45.955 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+09:43:46.108 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+09:43:46.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+09:43:46.367 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+09:43:49.076 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+09:43:51.179 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+09:43:55.389 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+09:43:57.123 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+11:59:36.407 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+11:59:37.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+11:59:37.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+11:59:38.030 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+11:59:38.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+11:59:38.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+11:59:38.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+11:59:38.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+11:59:38.758 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+11:59:41.906 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+11:59:44.001 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+11:59:47.192 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+11:59:49.203 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+12:12:50.602 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+12:12:51.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+12:12:51.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+12:12:51.894 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+12:12:52.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+12:12:52.223 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+12:12:52.382 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+12:12:52.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+12:12:52.639 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+12:12:55.417 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+12:12:57.490 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+12:13:01.277 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+12:13:03.020 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+12:34:49.710 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+12:34:51.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+12:34:51.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+12:34:51.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+12:34:51.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+12:34:51.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+12:34:51.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+12:34:51.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+12:34:51.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+12:34:55.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+12:34:57.542 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+12:35:01.828 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+12:35:03.600 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+12:35:51.244 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+12:35:52.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+12:35:52.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+12:35:52.385 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+12:35:52.554 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+12:35:52.707 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+12:35:52.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+12:35:53.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+12:35:53.109 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+12:35:55.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+12:35:57.915 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+12:36:01.954 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+12:36:03.701 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+12:36:50.122 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+12:36:51.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+12:36:51.084 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+12:36:51.222 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+12:36:51.391 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+12:36:51.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+12:36:51.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+12:36:51.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+12:36:51.958 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+12:36:54.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+12:36:56.721 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+12:36:59.801 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+12:37:01.493 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************
+12:39:25.900 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Started TC_001_AccountRegistrationTest***********
+12:39:26.934 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided first name
+12:39:26.934 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided  name
+12:39:27.082 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided last name
+12:39:27.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided email
+12:39:27.400 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided telephone number
+12:39:27.549 [main] INFO  testCases.TC_001_AccountRegistrationTest - provided password
+12:39:27.693 [main] INFO  testCases.TC_001_AccountRegistrationTest - confirmed password
+12:39:27.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked policy
+12:39:30.533 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked continue
+12:39:32.595 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ***********Finished TC_001_AccountRegistrationTest***********
+12:39:35.812 [main] INFO  testCases.TC_002_LoginTest - ************* starting TC_002_LoginTest***********
+12:39:37.504 [main] INFO  testCases.TC_002_LoginTest - **************finished TC_002_LoginTest************

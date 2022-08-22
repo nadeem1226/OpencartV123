@@ -1,4 +1,5 @@
 @echo
 cd C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123
-mvn clean test
-PAUSE
+mvn test
+pause
+
