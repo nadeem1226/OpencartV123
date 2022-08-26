@@ -9,26 +9,22 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">4</td><td class="num">62,087</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">30,525</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="4">testCases.TC_003_LoginDataDrivenTest</td><td><a href="#m0">test_Loginddt</a></td><td rowspan="4">1660960286549</td><td rowspan="4">11281</td></tr><tr class="failedeven"><td><a href="#m1">test_Loginddt</a></td></tr><tr class="failedeven"><td><a href="#m2">test_Loginddt</a></td></tr><tr class="failedeven"><td><a href="#m3">test_Loginddt</a></td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">testCases.TC_003_LoginDataDrivenTest</td><td><a href="#m4">test_Loginddt</a></td><td rowspan="1">1660960310171</td><td rowspan="1">2130</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">testCases.TC_001_AccountRegistrationTest</td><td><a href="#m0">test_account_Registration</a></td><td rowspan="1">1661332975283</td><td rowspan="1">14577</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">testCases.TC_002_LoginTest</td><td><a href="#m1">test_login</a></td><td rowspan="1">1661332995053</td><td rowspan="1">2029</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">testCases.TC_003_LoginDataDrivenTest#test_Loginddt</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>laksh@yahoo.com</td><td>Lakshmi</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at testCases.TC_003_LoginDataDrivenTest.test_Loginddt(TC_003_LoginDataDrivenTest.java:66)
+<h2>Test</h2><h3 id="m0">testCases.TC_001_AccountRegistrationTest#test_account_Registration</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [Your Account Has Been Created!] but found [no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//h1[normalize-space()=&apos;Your Account Has Been Created!&apos;]&quot;}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.1.4&apos;, revision: &apos;535d840ee2&apos;
+System info: host: &apos;DESKTOP-DT297E4&apos;, ip: &apos;192.168.0.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;18.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b85c24ed36dd87c288adf1217f8fb484, findElement {using=xpath, value=//h1[normalize-space()=&apos;Your Account Has Been Created!&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62506/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b85c24ed36dd87c288adf1217f8fb484]
+	at testCases.TC_001_AccountRegistrationTest.test_account_Registration(TC_001_AccountRegistrationTest.java:56)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">testCases.TC_003_LoginDataDrivenTest#test_Loginddt</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>laks@yahoo.com</td><td>xyz</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at testCases.TC_003_LoginDataDrivenTest.test_Loginddt(TC_003_LoginDataDrivenTest.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">testCases.TC_003_LoginDataDrivenTest#test_Loginddt</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>pavanoltraining@gmail.com</td><td>test@123</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at testCases.TC_003_LoginDataDrivenTest.test_Loginddt(TC_003_LoginDataDrivenTest.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">testCases.TC_003_LoginDataDrivenTest#test_Loginddt</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>lakshmi@yahoo.com</td><td>Laxmi</td><td>Invalid</td></tr><tr><th colspan="3">Exception</th></tr><tr><td colspan="3"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at testCases.TC_003_LoginDataDrivenTest.test_Loginddt(TC_003_LoginDataDrivenTest.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">testCases.TC_003_LoginDataDrivenTest#test_Loginddt</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>nadeem1226@gmail.com</td><td>nadeem1226</td><td>Valid</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">testCases.TC_002_LoginTest#test_login</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

@@ -24,7 +24,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	
-	public ResourceBundle rb;// to read config.properties
+	public ResourceBundle rb;// to read config.properties, rb is a variable
 	
 	public Logger logger;// for Logging
 	
@@ -35,9 +35,9 @@ public class BaseClass {
 	@Parameters("browser")   // getting browser parameter from testng.xml
 	public void setup(String br)
 	{
-		rb = ResourceBundle.getBundle("config");// Load config.properties
+		rb = ResourceBundle.getBundle("config");//  for Loading config.properties file
 				
-		logger = LogManager.getLogger(this.getClass());// for Logger  
+		logger = LogManager.getLogger(this.getClass());// for Logger  this method will return logger object 
 		
 		//launch right browser based on parameter
 		if (br.equals("chrome")) {
@@ -79,9 +79,12 @@ public class BaseClass {
 		File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
 		String destination = System.getProperty("user.dir") + "\\screenshots\\" + tname + "_" + timeStamp + ".png";
 
-		try {
+		try 
+		{
 			FileUtils.copyFile(source, new File(destination));
-		} catch (Exception e) {
+		} 
+		catch (Exception e) 
+		{
 			e.getMessage();
 		}
 		return destination;

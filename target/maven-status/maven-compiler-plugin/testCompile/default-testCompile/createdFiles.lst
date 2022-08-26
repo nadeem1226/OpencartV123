@@ -1,4 +1,3 @@
-testbasePractice\BaseClassPractice.class
 pageObjects\HomePage.class
 utilities\ExtentReportUtility.class
 pageObjects\MyAccountPage.class
@@ -10,9 +9,5 @@ pageObjects\LoginPage.class
 pageObjects\BasePage.class
 testCases\TC_001_AccountRegistrationTest.class
 utilities\DataProviders.class
-PageObjectsPractice\HomePagePractice.class
-testCasesPractice\TC_001_AccountRegistrationTestPractice.class
-PageObjectsPractice\AccountRegistrationPagePractice.class
-PageObjectsPractice\BasePagePractice.class
 testCases\TC_002_LoginTest.class
 testCases\TC_003_LoginDataDrivenTest.class

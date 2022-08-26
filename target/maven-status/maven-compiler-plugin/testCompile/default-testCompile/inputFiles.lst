@@ -1,6 +1,4 @@
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testBase\BaseClass.java
-C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testbasePractice\BaseClassPractice.java
-C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testCasesPractice\TC_001_AccountRegistrationTestPractice.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testCases\TC_004DummyTestcase.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testCases\TC_002_LoginTest.java
@@ -11,8 +9,5 @@ C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\pag
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\utilities\DataProviders.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\pageObjects\BasePage.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testCases\TC_001_AccountRegistrationTest.java
-C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\PageObjectsPractice\BasePagePractice.java
-C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\PageObjectsPractice\HomePagePractice.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\utilities\ExcelUtility.java
-C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\PageObjectsPractice\AccountRegistrationPagePractice.java
 C:\Users\user\eclipse-workspace\MyJAVAProgramming\OpencartV123\src\test\java\testCases\TC_003_LoginDataDrivenTest.java
