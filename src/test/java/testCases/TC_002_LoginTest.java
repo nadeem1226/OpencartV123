@@ -27,7 +27,7 @@ public class TC_002_LoginTest extends BaseClass
 		 lp.clickLogin();
 		 
 		 MyAccountPage macc=new MyAccountPage(driver);
-		 boolean targetpage=macc.isMyAccountPageExits();
+		 boolean targetpage=macc.isMyAccountPageExists();
 		 
 		 Assert.assertEquals(targetpage, true);
 		 }

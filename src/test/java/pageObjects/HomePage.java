@@ -20,6 +20,13 @@ public class HomePage extends BasePage {
 	
 	@FindBy(xpath="//a[text()='Login']") // added in step6
 	WebElement lnkLogin;
+	
+	@FindBy(xpath="//input[@name='search']") // searchbox element
+	WebElement txtSearchbox;
+	
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']") // search button
+	WebElement btnSearch;
+	
 
 	// Action Methods
 	public void clickMyAccount() {
@@ -33,5 +40,17 @@ public class HomePage extends BasePage {
 	public void clickLogin() {
 		lnkLogin.click();
 	}
+	
+	public void enterProductName(String pName)
+	{
+		txtSearchbox.sendKeys(pName);
+	}
+	
+	public void clickSearch()
+	{
+		btnSearch.click();
+	}
+	
+	
 	
 }

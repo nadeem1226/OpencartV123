@@ -22,7 +22,7 @@ public class MyAccountPage extends BasePage {
 	   WebElement lnklogout;
 	
 	
-	public boolean isMyAccountPageExits()
+	public boolean isMyAccountPageExists()
 	{
 		try
 		{

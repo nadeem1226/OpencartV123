@@ -30,7 +30,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass {
 		                                                 // if data is  invalid-> my acct pge=true--> test fail
 		                                                 // if data is  invalid-> my acct pge=false--> test passes
 		 MyAccountPage macc=new MyAccountPage(driver);
-		 boolean targetpage=macc.isMyAccountPageExits();// true or false
+		 boolean targetpage=macc.isMyAccountPageExists();// true or false
 		 
 	// positive scenarios	 
 		 if(exp.equals("Valid"))
